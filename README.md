@@ -33,6 +33,7 @@ In this module, I developed a professional online presence by creating and updat
 
 ## Module 3 – Coding and Collaboration Platforms  
 This module provided hands-on experience with coding and collaboration tools. I completed beginner-level Python challenges on HackerRank to strengthen my programming skills. Additionally, I created a Digital Literacy Awareness Quiz using Google Forms to engage peers and assess understanding.
+**Folder:** `task-3-platforms/`
 
 ## Module 4 – Professional Communication & Email Etiquette  
 This module focused on developing clear and professional communication skills. I drafted formal emails addressed to a professor and a company, and created a checklist outlining responsible social media practices for students.  
