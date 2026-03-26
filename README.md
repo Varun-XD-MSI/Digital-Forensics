@@ -3,6 +3,7 @@
 | Field | Details |
 | :--- | :--- |
 | **Name** | Varun Batta |
+| **Reg no** | 25MEI10094 |
 | **Branch** | Integrated M.Tech in CyberSecurity |
 | **Batch** | 2025 |
 
