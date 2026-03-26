@@ -1,7 +1,7 @@
 # Stay Safe Online – Prevention Checklist  
 *(For College Students in India)*
 
-## ✅ General Safety Tips
+##  General Safety Tips
 
 1. **Use strong and unique passwords**  
    Create passwords with a mix of letters, numbers, and symbols. Avoid using the same password across multiple apps or websites.
@@ -29,7 +29,7 @@
 
 ---
 
-## 💳 UPI & Financial Safety Tips
+##  UPI & Financial Safety Tips
 
 9. **Double-check receiver details before payment**  
    Always confirm the UPI ID or name before sending money. Once sent, transactions are hard to reverse.
@@ -42,7 +42,7 @@
 
 ---
 
-## 🚨 Reporting Cybercrime
+##  Reporting Cybercrime
 
 - **National Cyber Crime Portal:** https://cybercrime.gov.in  
 - **Helpline Number:** 1930  
