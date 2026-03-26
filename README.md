@@ -1,12 +1,12 @@
 # Varun-XD-MSI
-### 🎓 Education & Background
+### Education & Background
 | Field | Details |
 | :--- | :--- |
 | **Name** | Varun Batta |
 | **Branch** | Integrated M.Tech in CyberSecurity |
 | **Batch** | 2025 |
 
-### 🎯 Learning Goals
+### Learning Goals
 I am currently focusing on mastering:
 * **Game Development** 
 * **Data Structures and algorithm** 
