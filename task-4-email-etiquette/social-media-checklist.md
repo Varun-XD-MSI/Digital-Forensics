@@ -1,6 +1,6 @@
 # Responsible Social Media Use – Do's and Don'ts (For College Students)
 
-## ✅ Do's
+##  Do's
 
 - **Think before you post**  
   Make sure your content is appropriate and won’t harm your reputation.
@@ -19,7 +19,7 @@
 
 ---
 
-## ❌ Don'ts
+##  Don'ts
 
 - **Don’t share personal or sensitive information**  
   Avoid posting phone numbers, addresses, or financial details.
