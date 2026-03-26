@@ -23,18 +23,21 @@ The project focuses on building awareness about digital tools, creating a profes
 
 # Module Summaries
 
-**Module 1 – Digital Literacy Awareness**
+## Module 1 – Digital Literacy Awareness  
+This module introduces the concept of digital literacy and its significance in both academic and professional contexts. I designed a visual infographic using Canva to present key topics such as safe internet practices, essential digital tools, and maintaining a professional online identity.  
+**Folder:** `task-1-presentation/`
 
-This module introduced the concept of digital literacy and its importance in academic and professional life. I created a visual infographic using Canva that highlights key ideas such as safe internet practices, useful digital tools, and maintaining a professional online identity.  Folder: task-1-presentation/
+## Module 2 – Building a Digital Portfolio  
+In this module, I developed a professional online presence by creating and updating profiles on platforms such as GitHub, LinkedIn, and Kaggle. This process helped me understand how to showcase skills, build networks, and support future career development.  
+**Folder:** `task-2-portfolio/`
 
-**Module 2 – Building a Digital Portfolio**
-In this module, I learned how to establish a professional presence online. I created and updated profiles on platforms like GitHub, LinkedIn, and Kaggle. This helped me understand how these platforms can be used for showcasing skills, networking, and future career growth.  Folder: task-2-portfolio/
+## Module 3 – Coding and Collaboration Platforms  
+This module provided hands-on experience with coding and collaboration tools. I completed beginner-level Python challenges on HackerRank to strengthen my programming skills. Additionally, I created a Digital Literacy Awareness Quiz using Google Forms to engage peers and assess understanding.
 
-**Module 3 – Coding and Collaboration Platforms**
-This module focused on practical exposure to coding platforms and collaborative tools. I completed beginner-level Python challenges on HackerRank and gained hands-on experience. Additionally, I created a Digital Literacy Awareness Quiz using Google Forms to engage my peers.
+## Module 4 – Professional Communication & Email Etiquette  
+This module focused on developing clear and professional communication skills. I drafted formal emails addressed to a professor and a company, and created a checklist outlining responsible social media practices for students.  
+**Folder:** `task-4-email-etiquette/`
 
-**Module 4 – Professional Communication & Email Etiquette**
-This module emphasized the importance of clear and professional communication. I drafted two formal emails—one to a professor and another to a company—and created a checklist outlining responsible social media behavior for students.  Folder: task-4-email-etiquette/
-
-**Module 5 – Cybercrime Awareness and Prevention**
-In this module, I explored common cyber threats, focusing on UPI/Online Payment Fraud. I prepared a case study explaining how such frauds occur and designed a prevention checklist with practical safety tips for students.
+## Module 5 – Cybercrime Awareness and Prevention  
+In this module, I explored common cyber threats with a focus on UPI and online payment fraud. I prepared a case study explaining how such frauds occur and developed a practical prevention checklist to promote safe digital practices among students.
+**Folder:** `task-5-cybercrime/`
